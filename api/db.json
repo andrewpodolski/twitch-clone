@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "BOOM",
+      "description": "Very addictive video",
+      "userId": "111680083080916011681",
+      "id": 1
+    },
+    {
+      "title": "MORE BOOOOM",
+      "description": "THE MOST ADDICTIVE VIDEO EVER",
+      "userId": "106757560589848824641",
+      "id": 2
+    },
+    {
+      "title": "ololololo",
+      "description": "lol",
+      "userId": "111680083080916011681",
+      "id": 3
+    },
+    {
+      "title": "pro",
+      "description": "arp",
+      "userId": "111680083080916011681",
+      "id": 4
+    }
+  ]
+}
